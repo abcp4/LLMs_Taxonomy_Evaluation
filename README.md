@@ -20,8 +20,8 @@ gemma3:27b
 
                  precision    recall  f1-score   support
 
-           0        0.89      0.91      0.90       992
-           1        0.82      0.78      0.80       496
+    negative        0.89      0.91      0.90       992
+    positive        0.82      0.78      0.80       496
 
     accuracy                            0.87      1488
     macro avg       0.86      0.85      0.85      1488
