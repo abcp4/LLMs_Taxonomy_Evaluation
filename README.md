@@ -11,8 +11,8 @@ Musubu:
     positive       0.34      0.97      0.50       496
 
     accuracy                           0.35      1488
-   macro avg       0.54      0.51      0.29      1488
-weighted avg       0.60      0.35      0.22      1488
+    macro avg       0.54      0.51      0.29      1488
+    weighted avg       0.60      0.35      0.22      1488
 
 
 gemma3:27b
@@ -23,5 +23,5 @@ gemma3:27b
            1       0.82      0.78      0.80       496
 
     accuracy                           0.87      1488
-   macro avg       0.86      0.85      0.85      1488
-weighted avg       0.87      0.87      0.87      1488
+    macro avg       0.86      0.85      0.85      1488
+    weighted avg       0.87      0.87      0.87      1488
