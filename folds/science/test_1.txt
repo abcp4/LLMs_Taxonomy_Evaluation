@@ -1,0 +1,133 @@
+molecular biology
+behavioral ecology
+aquatic ecology
+terrestrial ecology
+environmental health
+parasitology
+psychology of movement
+environmental microbiology
+microbial ecology
+computational neuroscience
+developmental neuroscience
+cellular neuroscience
+molecular neuroscience
+cellular physiology
+forest biology
+clinical nutrition
+community nutrition
+molecular nutrition
+genetic nutrition
+horticulture
+non-linear dynamic
+partial differential equations
+applied dynamics
+physical processes
+stars, interstellar medium and the galaxy
+analytical chemistry
+medicinal-pharmaceutical chemistry
+inorganic chemistry
+computer architecture
+scientific computing
+os
+software engineering
+environmental sciences
+geochemistry
+seismology
+glaciology
+paleobiology
+paleontology
+tectonics and structure
+algebra
+analysis
+harmonic analysis and representation
+set theory
+fresh water studies
+astronomy and astrophysics
+atomic, molecular and optical physics
+biological and chemical physics
+cosmology, relativity, and gravity
+elementary particles and fields and string theory
+non-linear dynamics
+quantum physics
+applied statistics
+statistical theory
+fluid mechanics
+aerodynamics
+astrodynamics
+propulsion and power
+multi-vehicle systems
+bioimaging and biomedical optics
+biomechanics
+biochemical and biomolecular engineering
+petroleum engineering
+polymer science
+process control and systems
+thermodynamics
+structural engineering
+digital circuits
+data storage systems
+digital communications
+hardware systems
+electrical and electronics
+electronic devices and semiconductor manufacturing
+nanotechnology fabrication
+power and energy
+dynamical systems
+ceramic materials
+computer-aided engineering and design
+electro-mechanical systems
+manufacturing
+ocean engineering
+industrial engineering
+operational research
+linguistic anthropology
+social anthropology
+critical and cultural studies
+health communication
+journalism studies
+organizational communication
+speech and rhetorical studies
+economic history
+labor economics
+physical and environmental geography
+comparative and historical linguistics
+computational linguistics
+first language acquisition
+morphology
+neurolinguistics
+syntax
+american politics
+comparative politics
+political theory
+public administration
+public policy
+urban studies
+personality and social contexts
+demography, population, and ecology
+family, life course, and society
+medicine and health
+sociology of culture
+work, economy and organizations
+criminology
+american popular culture
+ethnic studies
+classical literature and philology
+indo-european linguistics and philology
+literature in english, anglophone
+literature in english, north america, ethnic and minority
+rhetoric and composition
+french and francophone literature
+german linguistics
+near eastern languages and societies
+african history
+asian history
+history of science, technology, and medicine
+medieval history
+social history
+contemporary art history
+modern art and architecture history
+composition
+epistemology
+philosophy of mind
+ethics
+philosophy of religion

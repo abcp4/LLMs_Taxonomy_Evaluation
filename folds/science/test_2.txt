@@ -1,0 +1,132 @@
+biophysics
+developmental biology
+evolutionary ecology
+epidemiology
+biostatistics
+immunopathology
+immunoprophylaxis
+bacteriology
+virology
+cognitive neuroscience
+medicinal chemistry
+pharmaceutics
+toxicology
+evolutionary physiology
+endocrinology
+systems and integrative physiology
+aquaculture and fisheries
+dairy science
+poultry science
+zoology
+entomology
+food biotechnology
+wood science
+pulp/paper technology
+human nutrition
+nutritional epidemiology
+dynamic systems
+instrumentation
+the sun and the solar system
+cosmology
+materials chemistry
+organic chemistry
+physical chemistry
+polymer chemistry
+artificial intelligence
+human computer interfaces
+graphics
+mineral physics
+algebraic geometry
+discrete mathematics and combinatorics
+logic and foundations
+number theory
+climate
+fluid dynamics
+nuclear physics
+biometry
+aeronautical vehicles
+space vehicles
+multidisciplinary design optimization
+structures and materials
+air traffic control
+biological engineering
+biomaterials
+systems and integrative engineering
+transport phenomena
+civil engineering
+construction engineering/management
+environmental engineering
+geotechnical engineering
+electromagnetics
+photonics
+signal processing
+systems and communications
+circuits
+metallurgy
+polymer and organic materials
+semiconductor and optical materials
+structural materials
+acoustics, dynamics, and controls
+applied mechanics
+energy systems
+ergonomics
+archaeological
+broadcast studies
+communication technology and new media
+international and intercultural communication
+interpersonal/small group communication
+mass communication
+economic theory
+growth and development
+international economics
+macroeconomics
+public economics
+human geography
+nature and society relations
+sociolinguistics
+applied linguistics
+discourse linguistics
+second language acquisition
+typological linguistics
+linguistic diversity
+language description
+phonetics
+pragmatics
+public affairs
+cognition and perception
+community psychology
+health psychology
+social psychology
+gender and sexuality
+methodologies : quantitative, qualitative, comparative, and historical
+politics and social change
+race and ethnicity
+rural sociology
+social psychology and interaction
+theory, knowledge and science
+american material culture
+ancient history
+classical archaeology and art history
+literature in english, british isles
+literature in english, north america
+feminist, gender and sexuality studies
+african languages and societies
+east asian languages and societies
+european languages and societies
+slavic languages and societies
+south and southeast asian languages and societies
+islamic world/near east history
+history of religion
+intellectual history
+political history
+american art and architecture history
+ancient, medieval, renaissance and baroque art and architecture
+asian art and architecture history
+theatre history
+music theory
+philosophy of language
+history of religions of eastern origins
+religious thought
+latin american literature
+dramatic literature, criticism and theory
+playwriting
